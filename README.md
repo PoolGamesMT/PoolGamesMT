@@ -1,7 +1,7 @@
 - hello im PoolGamesMT
 - i do game development and coding 🤓
 - i like olive garden breadsticks
-- im currently learning networking
+- im learned networking for unity
 
 <!---
 PoolGamesMT/PoolGamesTM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
